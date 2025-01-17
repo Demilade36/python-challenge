@@ -32,17 +32,17 @@ This project is a Python script designed to analyze a company's financial record
  
 The script will display the analysis in a txt file format.
 
+---
 
 **PyPoll**
 This project is a Python script designed to analyze election data from a CSV file. It calculates key statistics such as the total number of votes, the percentage of votes each candidate received, and determines the election winner based on popular vote.
 
----
+Features
 
-    Features
-
-- `election_data.csv`: The input file containing election data.
-- `election_analysis.txt`: The output file containing the analysis results.
-- `election_analysis.py`: The Python script for analyzing the data.
+- Calculates the **total number** of votes cast
+- Computes the **percentage of votes** each candidate won
+- Calculates the **total number of votes** each candidate won
+- Identifies the **winner of the election** based on popular vote
 
 ---
 
