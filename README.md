@@ -23,17 +23,15 @@ This project is a Python script designed to analyze a company's financial record
  Usage
 
 1. Place the financial dataset (`budget_data.csv`) in the same directory as the script.
-2. Run the script using the following command:
-
-    python financial_analysis.py
-    ```
+2. Run the script.
 3. The results will be printed to the terminal and a text file.
 
 ---
 
  Output Analysis
-
+ 
 The script will display the analysis in a txt file format.
+
 
 **PyPoll**
 This project is a Python script designed to analyze election data from a CSV file. It calculates key statistics such as the total number of votes, the percentage of votes each candidate received, and determines the election winner based on popular vote.
@@ -51,6 +49,7 @@ This project is a Python script designed to analyze election data from a CSV fil
  Requirements
 
 - Python 3.6 
+
 ---
 
  References
