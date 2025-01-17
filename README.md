@@ -22,7 +22,7 @@ This project is a Python script designed to analyze a company's financial record
 
  Usage
 
-1. Place the financial dataset (`budget_data.csv`) in the same directory as the script.
+1. Place the financial dataset in the same directory as the script.
 2. Run the script.
 3. The results will be printed to the terminal and a text file.
 
@@ -53,4 +53,5 @@ Features
 ---
 
  References
+ 
  Used Google to understand how to print the ouput in the required format as well as greatest increase and greatese decrease.
